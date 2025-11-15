@@ -183,6 +183,9 @@ h6{
         flex-grow: 1;
 
     }
+    .col h2{
+        text-align: center;
+    }
 }
 a{
     text-decoration: none;
